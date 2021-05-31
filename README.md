@@ -1,16 +1,35 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="./gifs/hi.gif" width="30px">, I'm Higor Lorenzon <a href="https://www.linkedin.com/in/higorlorenzon/" target="blank"><img align="center" src="./svgs/linkedin.svg" alt="HigorLoren" height="30" width="40" /></a></h1>
+<h3 align="center">Full Stack Developer 👨‍💻 | Javascript & Python 🖤</h3>
 
-<!--
-**HigorLoren/HigorLoren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>
+    I'm pursuing a degree in <b>computer science</b> from <a href="https://www.anchieta.br/"><b>UniAnchieta</b></a> - Centro Universitário Padre Anchieta. <br>
+    A promising <b>Full-Stack Software</b> and a <b>Clean Code Enthusiast</b>,
+    <br>who is <b>obsessed</b> with the idea of <b>improving</b> himself.
+  </em>
+  <br>
+</p>
 
-Here are some ideas to get you started:
+<img align="right" width="300px" alt="GIF" src="./gifs/farmworker.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***Talking about Personal Stuffs...***
+
+- 🔭 I’m currently working for <a href="https://justforyou.com.br?utm_source=github&utm_medium=HigorLoren&utm_campaign=README">JustForYou</a>
+- 🌱 I’m currently learning <a href="https://en.wikipedia.org/wiki/Queue_(abstract_data_type)">queues</a>
+- 👯 I’m looking to collaborate on financial projects
+- 🤔 I’m looking for help with <a href="https://github.com/HigorLoren/donko">github.com/HigorLoren/donko</a>
+- 💬 Ask me about <a href="https://github.com/HigorLoren/stalker">github.com/HigorLoren/stalker</a>
+- 📫 How to reach me: <a href="mailto: higor.lorenzon@gmail.com"><b>higor.lorenzon@gmail.com</b></a>
+- ⚡ Fun fact: I'm a <b>photographer</b> too! <a href="https://higorlorenzon.portfoliobox.net/">higorlorenzon.works</a>
+ 
+
+***Languages & Tools I Know...***
+<p align="left">
+  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><a href = "https://code.visualstudio.com/"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
