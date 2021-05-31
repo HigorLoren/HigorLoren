@@ -4,7 +4,7 @@
 <p align="center">
   <em>
     I'm pursuing a degree in <b>computer science</b> from <a target="_blank" href="https://www.anchieta.br/"><b>UniAnchieta</b></a> - Centro Universitário Padre Anchieta. <br>
-    A promising <b>Full-Stack Software</b> and a <b>Clean Code Enthusiast</b>,
+    A promising <b>Full-Stack Developer</b> and a <b>Clean Code Enthusiast</b>,
     <br>who is <b>obsessed</b> with the idea of <b>improving</b> himself.
   </em>
   <br>
