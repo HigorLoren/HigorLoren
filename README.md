@@ -1,9 +1,9 @@
-<h1 align="center">Hi <img src="./gifs/hi.gif" width="30px">, I'm Higor Lorenzon <a href="https://www.linkedin.com/in/higorlorenzon/" target="blank"><img align="center" src="./svgs/linkedin.svg" alt="HigorLoren" height="30" width="40" /></a></h1>
+<h1 align="center">Hi <img src="./gifs/hi.gif" width="30px">, I'm Higor Lorenzon <a target="_blank" href="https://www.linkedin.com/in/higorlorenzon/" target="blank"><img align="center" src="./svgs/linkedin.svg" alt="HigorLoren" height="30" width="40" /></a></h1>
 <h3 align="center">Full Stack Developer 👨‍💻 | Javascript & Python 🖤</h3>
 
 <p align="center">
   <em>
-    I'm pursuing a degree in <b>computer science</b> from <a href="https://www.anchieta.br/"><b>UniAnchieta</b></a> - Centro Universitário Padre Anchieta. <br>
+    I'm pursuing a degree in <b>computer science</b> from <a target="_blank" href="https://www.anchieta.br/"><b>UniAnchieta</b></a> - Centro Universitário Padre Anchieta. <br>
     A promising <b>Full-Stack Software</b> and a <b>Clean Code Enthusiast</b>,
     <br>who is <b>obsessed</b> with the idea of <b>improving</b> himself.
   </em>
@@ -14,13 +14,13 @@
 
 ***Talking about Personal Stuffs...***
 
-- 🔭 I’m currently working for <a href="https://justforyou.com.br?utm_source=github&utm_medium=HigorLoren&utm_campaign=README">JustForYou</a>
-- 🌱 I’m currently learning <a href="https://en.wikipedia.org/wiki/Queue_(abstract_data_type)">queues</a>
+- 🔭 I’m currently working for <a target="_blank" href="https://justforyou.com.br?utm_source=github&utm_medium=HigorLoren&utm_campaign=README">JustForYou</a>
+- 🌱 I’m currently learning <a target="_blank" href="https://en.wikipedia.org/wiki/Queue_(abstract_data_type)">queues</a>
 - 👯 I’m looking to collaborate on financial projects
-- 🤔 I’m looking for help with <a href="https://github.com/HigorLoren/donko">github.com/HigorLoren/donko</a>
-- 💬 Ask me about <a href="https://github.com/HigorLoren/stalker">github.com/HigorLoren/stalker</a>
-- 📫 How to reach me: <a href="mailto: higor.lorenzon@gmail.com"><b>higor.lorenzon@gmail.com</b></a>
-- ⚡ Fun fact: I'm a <b>photographer</b> too! <a href="https://higorlorenzon.portfoliobox.net/">higorlorenzon.works</a>
+- 🤔 I’m looking for help with <a target="_blank" href="https://github.com/HigorLoren/donko">github.com/HigorLoren/donko</a>
+- 💬 Ask me about <a target="_blank" href="https://github.com/HigorLoren/stalker">github.com/HigorLoren/stalker</a>
+- 📫 How to reach me: <a target="_blank" href="mailto: higor.lorenzon@gmail.com"><b>higor.lorenzon@gmail.com</b></a>
+- ⚡ Fun fact: I'm a <b>photographer</b> too! <a target="_blank" href="https://higorlorenzon.portfoliobox.net/">higorlorenzon.works</a>
  
 
 ***Languages & Tools I Know...***
@@ -32,4 +32,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><a href = "https://code.visualstudio.com/"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></code>
