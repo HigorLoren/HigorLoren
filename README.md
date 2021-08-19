@@ -14,7 +14,7 @@
 
 ***Talking about Personal Stuffs...***
 
-- 🔭 I’m currently working for <a target="_blank" href="https://justforyou.com.br?utm_source=github&utm_medium=HigorLoren&utm_campaign=README">JustForYou</a>
+- 🔭 I’m currently working for <a target="_blank" href="https://justfor.com.br?utm_source=github&utm_medium=HigorLoren&utm_campaign=README">JustForYou</a>
 - 🌱 I’m currently learning <a target="_blank" href="https://en.wikipedia.org/wiki/Queue_(abstract_data_type)">queues</a>
 - 👯 I’m looking to collaborate on financial projects
 - 🤔 I’m looking for help with <a target="_blank" href="https://github.com/HigorLoren/donko">github.com/HigorLoren/donko</a>
