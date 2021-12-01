@@ -23,13 +23,15 @@
 - ⚡ Fun fact: I'm a <b>photographer</b> too! <a target="_blank" href="https://higorlorenzon.portfoliobox.net/">higorlorenzon.portfoliobox.net</a>
  
 
-***Languages & Tools I Know...***
+***Languages & Tools:***
 <p align="left">
   
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" align="left" alt="figma" height='42px'/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/docker/docker.svg" align="left" alt="Docker" height='42px'/> </a>
+<a href="https://www.travis-ci.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/travisci/travisci.svg" align="left" alt="Travis CI" height='42px'/> </a>
+<a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/kubernetes/kubernetes.svg" align="left" alt="Kubernetes" height='42px'/> </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/aws/aws.svg" align="left" alt="Amazon AWS" height='42px'/> </a>
