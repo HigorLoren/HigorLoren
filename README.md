@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="./gifs/hi.gif" width="30px">, I'm Higor Lorenzon <a target="_blank" href="https://www.linkedin.com/in/higorlorenzon/" target="blank"><img align="center" src="./svgs/linkedin.svg" alt="HigorLoren" height="30" width="40" /></a></h1>
+<h1 align="center">Hi <img src="./gifs/hi.gif">, I'm Higor Lorenzon <a target="_blank" href="https://www.linkedin.com/in/higorlorenzon/" target="blank"><img align="center" src="./svgs/linkedin.svg" alt="HigorLoren" height="30" width="40" /></a></h1>
 <h3 align="center">Full Stack Developer 👨‍💻 | Javascript & Python 🖤</h3>
 
 <p align="center">
@@ -21,11 +21,11 @@
 - 💬 Ask me about <a target="_blank" href="https://github.com/HigorLoren/stalker">github.com/HigorLoren/stalker</a>
 - 📫 How to reach me: <a target="_blank" href="mailto: higor.lorenzon@gmail.com"><b>higor.lorenzon@gmail.com</b></a>
 - ⚡ Fun fact: I'm a <b>photographer</b> too! <a target="_blank" href="https://higorlorenzon.portfoliobox.net/">higorlorenzon.portfoliobox.net</a>
- 
+
 
 ***Languages & Tools:***
 <p align="left">
-  
+
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
