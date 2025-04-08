@@ -3,7 +3,7 @@
 
 <p align="center">
   <em>
-    I'm pursuing a degree in <b>computer science</b> from <a target="_blank" href="https://www.anchieta.br/"><b>UniAnchieta</b></a> - Centro Universitário Padre Anchieta. <br>
+    I'm <s>pursuing a degree</s> graduated in <b>computer science</b> from <a target="_blank" href="https://www.anchieta.br/"><b>UniAnchieta</b></a> - Centro Universitário Padre Anchieta. <br>
     A <b>Full-Stack Developer</b> and a <b>Clean Code Enthusiast</b>,
     <br>who is <b>obsessed</b> with the idea of <b>improving</b> himself.
   </em>
@@ -14,10 +14,10 @@
 
 **_Talking about Personal Stuffs..._**
 
-- 🔭 I’m currently working for <a target="_blank" href="https://www.agrosatelite.com.br/?utm_source=github&utm_medium=HigorLoren&utm_campaign=README">Agrosatélite</a>
-- 🌱 I’m currently learning <a target="_blank" href="https://en.wikipedia.org/wiki/Kubernetes">Kubernetes</a>
-- 🤔 I’m looking for help with <a target="_blank" href="https://github.com/HigorLoren/donko">github.com/HigorLoren/donko</a>
-- 💬 Ask me about <a target="_blank" href="https://github.com/HigorLoren/stalker">github.com/HigorLoren/stalker</a>
+- 🔭 I’m currently looking for work.
+- 🌱 I’m currently learning <a target="_blank" href="https://en.wikipedia.org/wiki/Prompt_engineering">Prompt engineering</a>
+- 🤔 I’m looking for help to deep dive in how to build large scale applications
+- 💬 Ask me about <a target="_blank" href="https://github.com/HigorLoren/donko">github.com/HigorLoren/donko</a>
 - 📫 How to reach me: <a target="_blank" href="mailto: higor.cervelin@gmail.com"><b>higor.cervelin@gmail.com</b></a>
 - ⚡ Fun fact: I'm a <b>photographer</b> too! <a target="_blank" href="https://higorlorenzon.portfoliobox.net/">higorlorenzon.portfoliobox.net</a>
 
